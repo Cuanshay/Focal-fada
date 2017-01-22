@@ -1,0 +1,1187 @@
+bhálsa: 1. waltz 
+bhata: 1. watt 
+bheith ann: 1. exist 
+bholta: 1. Volt 
+cheana: 1. already, by now, yet 
+cheithre: 1. four 
+choíche: 1. always, ever 
+chun: 1. at, to, toward, towards 
+thíos: 1. below, downstairs, underneath | 2. below, underneath 
+thar: 1. through | 2. across, beyond, on the other side of 
+thiar: 1. behind 
+Éimin: 1. Yemen 
+Éire: 1. Ireland 
+@ránas: 1. Uranus 
+áthán: 1. anus, arse 
+áthas: 1. gladness, joy 
+áilleacht: 1. beauty 
+áit: 1. place | 2. location, place, spot 
+álainn: 1. beautiful, fine, handsome, lovely 
+ápa: 1. ape, monkey 
+árthach: 1. boat 
+ára: 1. kidney 
+éadrom: 1. light 
+éan: 1. bird 
+íseal: 1. low 
+óbó: 1. oboe 
+ógbhean: 1. young woman 
+ógfhear: 1. youngster, youth 
+ógánach: 1. youngster, youth 
+óg: 1. young 
+ólta: 1. drunk, intoxicated 
+ór: 1. gold 
+ósais: 1. oasis 
+óstlann: 1. hotel 
+údar: 1. author, writer 
+úll: 1. apple 
+úráiniam: 1. uranium 
+úr: 1. fresh, recent | 2. new, novel 
+úrsceal: 1. novel 
+: 1. suck 
+Aigéan Alantach: 1. Atlantic, Atlantic Ocean 
+Aigéan Ciúin: 1. Pacific, Pacific Ocean 
+Aindéis: 1. Andes 
+Aipiníní: 1. Apennines 
+Albáinis: 1. Albanian, Albanian language 
+Albain: 1. Scotland 
+Alpa: 1. Alps 
+Amasóin: 1. Amazon 
+Amsterdam: 1. Amsterdam 
+An Áise: 1. Asia 
+An Éigipt: 1. Egypt 
+An Íoslainn: 1. Iceland 
+An Ísiltír: 1. Holland, the Netherlands 
+An Aetóip: 1. Abyssinia, Ethiopia 
+An Afganastáin: 1. Afghanistan 
+An Afraic: 1. Africa 
+An Afraic Theas: 1. South Africa 
+An Aithin: 1. Athens 
+An Ailgéir: 1. Algeria 
+An Airgintín: 1. Argentina 
+An Albáin: 1. Albania 
+An Araib Shádach: 1. Saudi Arabia 
+An Astráil: 1. Australia 
+An Danmhairg: 1. Denmark 
+An Eilbhéis: 1. Switzerland 
+An Háig: 1. The Hague 
+An Iaráic: 1. Iraq 
+An Iaráin: 1. Iran, Persia 
+An India: 1. India 
+An Indinéis: 1. Indonesia 
+An Iodáil: 1. Italy 
+An Iordáin: 1. Jordan 
+An Iorua: 1. Norway 
+An Libia: 1. Libya 
+An Nígir: 1. Niger 
+An Níl: 1. Nile 
+An Nigéir: 1. Nigeria 
+An Nua-Shéalainn: 1. New Zealand 
+An Ollainn: 1. Holland 
+An Ostair: 1. Austria 
+An Róimh: 1. Rome 
+An Rómáin: 1. Romania | 2. Romania 
+An Rúis: 1. Russia 
+An Spáinn: 1. Spain 
+An Túinéis: 1. Tunisia 
+An Tansáin: 1. Tanzania 
+An Tasmáin: 1. Tasmania 
+An Tibéid: 1. Tibet 
+An Tuirc: 1. Turkey 
+An Ungáir: 1. Hungary 
+An tSáír: 1. Zaïre 
+An tSín: 1. China 
+An tSúdáin: 1. Sudan 
+An tSaimbia: 1. Zambia 
+An tSairdín: 1. Sardinia 
+An tSeapáin: 1. Japan 
+An tSibéir: 1. Siberia 
+An tSicil: 1. Sicily 
+An tSile: 1. Chile 
+An tSiombáib: 1. Zimbabwe 
+An tSiria: 1. Syria 
+An tSualainn: 1. Sweden 
+An Bhanglaidéis: 1. Bangladesh 
+An Bheithil: 1. Bethlehem 
+An Bheilg: 1. Belgium 
+An Bhiosáint: 1. Byzantium 
+An Bhrasaíl: 1. Brazil 
+An Bhreatain: 1. Britain, Great Britain 
+An Bhreatain Bheag: 1. Wales 
+An Bhreatain Mhór: 1. Britain, Great Britain 
+An Bhriotáin: 1. Bretagne, Brittany 
+An Bhruiséil: 1. Brussels 
+An Bhulgáir: 1. Bulgaria 
+An Chéinia: 1. Kenya 
+An Chóiré: 1. Korea 
+An Chipir: 1. Cyprus 
+An Chorsaic: 1. Corsica 
+An Chréit: 1. Crete 
+An Fhionlainn: 1. Finland 
+An Fhrainc: 1. France 
+An Ghearmáin: 1. Germany 
+An Ghréig: 1. Greece 
+An Ghraonlainn: 1. Greenland | 2. Greenland 
+An Mhonghóil: 1. Mongolia 
+An Phacastáin: 1. Pakistan 
+An Phalaistín: 1. Palestine 
+An Pholainn: 1. Poland 
+Béal Feirste: 1. Belfast 
+Béarla: 1. English, English language 
+Bíobla: 1. Bible 
+Búcairist: 1. Bucharest 
+Búdaipeist: 1. Budapest 
+Baile Átha Cliath: 1. Dublin 
+Balcáin: 1. Balkans 
+Bascais: 1. Basque, Basque language 
+Beirlín: 1. Berlin 
+Breatnais: 1. Welsh, Welsh language 
+Briostó: 1. Bristol 
+Burma: 1. Burma 
+Cáisc: 1. Easter 
+Cósta Ríce: 1. Costa Rica 
+Cúba: 1. Cuba 
+Cathair na Bhatacáine: 1. Vatican City 
+Caecar: 1. Quaker 
+Caireo: 1. Cairo 
+Calcúta: 1. Calcutta 
+Camarún: 1. Cameroon 
+Ceanada: 1. Canada 
+Ceilteach: 1. Celtic | 2. Celt 
+Ciarraí: 1. Kerry 
+Cill Dara: 1. Kildare 
+Corcaigh: 1. Cork 
+Críoch Lochlann: 1. Scandinavia 
+Críost: 1. Christ 
+Cuáit: 1. Kuwait 
+Dún Éideann: 1. Edinburgh 
+Danmhairgis: 1. Danish, Danish language 
+Deireadh Fómhair: 1. October 
+Dia: 1. God 
+Doire: 1. Derry, Londonderry 
+Eabhrac: 1. York 
+Eabhrais: 1. Hebrew, Hebrew language 
+Eacuadór: 1. Ecuador 
+Eanáir: 1. January 
+Earrach: 1. spring, springtime 
+Fómhar: 1. autumn 
+Feabhra: 1. February 
+Fraincis: 1. French, French language 
+Gána: 1. Ghana 
+Gaeilge: 1. Gaelic, Gaelic language 
+Gearmáinis: 1. German, German language 
+Gearmánach: 1. German 
+Glaschú: 1. Glasgow 
+Guatemala: 1. Guatemala 
+Heilsincí: 1. Helsinki 
+Iúil: 1. July 
+Iamáice: 1. Jamaica 
+Iarúsailéim: 1. Jerusalem 
+Iodáilis: 1. Italian, Italian language 
+Iosrael: 1. Israel | 2. Israel 
+Iostanbúl: 1. Istanbul 
+Laidin: 1. Latin 
+Learpholl: 1. Liverpool 
+Liospóin: 1. Lisbon 
+Londain: 1. London 
+Luimneach: 1. Limerick 
+Málta: 1. Malta 
+Mósaimbíc: 1. Mozambique 
+Madagascar: 1. Madagascar 
+Maidrid: 1. Madrid 
+Manchain: 1. Manchester 
+Maracó: 1. Morocco 
+Meán Fhómhair: 1. September 
+Meicsiceo: 1. Mexico 
+Monacó: 1. Monaco 
+Na hOileáin Fhilipíneacha: 1. Philippine Islands, Philippines 
+Neipeál: 1. Nepal 
+Nicearagua: 1. Nicaragua 
+Nua-Eabhrac: 1. New Amsterdam, New York, New York City 
+Ollainnis: 1. Dutch, Dutch language 
+Osló: 1. Oslo 
+Páras: 1. Paris 
+Paragua: 1. Paraguay 
+Peiriú: 1. Peru 
+Plútón: 1. Pluto 
+Portaingéilis: 1. Portuguese, Portuguese language 
+Prág: 1. Prague 
+Réin: 1. Rhine 
+Rómhánach: 1. Roman | 2. Roman 
+Rúisis: 1. Russian, Russian language 
+Sínis: 1. Chinese, Chinese language 
+Sóifia: 1. Sofia 
+Samhradh: 1. summer 
+Sasana: 1. England | 2. England 
+Seapáinis: 1. Japanese, Japanese language 
+Singeapór: 1. Singapore 
+Spáinnis: 1. Spanish, Spanish language 
+Stáit Aontaithe Mheiriceá: 1. United States of America, USA 
+Stócólm: 1. Stockholm 
+Sualainnis: 1. Swedish, Swedish language 
+Talamh an Éisc: 1. Newfoundland 
+Tríonóid: 1. Trinity 
+Uganda: 1. Uganda 
+Uragua: 1. Uruguay 
+abhainn: 1. river 
+ach: 1. apart from, but, except, other than | 2. but 
+achainigh: 1. ask, ask for, beg, bid, request 
+adhair: 1. adore, worship 
+adhmad: 1. timber, wood 
+adhmait: 1. magnet 
+aghaidh: 1. face 
+amhrán: 1. song 
+amhras: 1. doubt 
+athair críonna: 1. grandfather 
+athair mór: 1. grandfather 
+athartha: 1. fatherland 
+athraigh: 1. alter, change | 2. change, turn 
+athuair: 1. afresh, again, once more 
+ab: 1. abbot 
+acadúil: 1. academic 
+acadamh: 1. academy 
+acra: 1. acre 
+adamh: 1. atom 
+ae: 1. liver 
+aeráid: 1. climate 
+aerárthach: 1. aircraft 
+aer: 1. air | 2. heaven, sky 
+aerfort: 1. airport 
+agus: 1. and 
+aibítir: 1. alphabet 
+aibidh: 1. mature, ripe 
+aidiúnach: 1. adjutant, aide-de-camp 
+aigéad: 1. acid 
+aigéadach: 1. acetous, acid, sour, tart 
+aigéan: 1. ocean 
+aigneolaíocht: 1. psychology 
+ailgéabar: 1. algebra 
+ailibí: 1. alibi 
+ailigéadar: 1. alligator 
+aimiréal: 1. admiral 
+aimpéar: 1. ampère 
+aimsir: 1. weather 
+ainmhí: 1. animal 
+aindiachaí: 1. atheist 
+aingeal: 1. angel 
+ainmfhocal: 1. noun, substantive 
+ainm: 1. appellation, name | 2. noun, substantive 
+ainm cleite: 1. pseudonym 
+aintín: 1. aunt 
+airde: 1. height 
+airgead: 1. silver | 2. money 
+airgead beo: 1. mercury, quicksilver 
+aistear farraige: 1. journey, trip, voyage 
+aisteoir: 1. actor 
+aláram: 1. alarm 
+aló: 1. aloe 
+alúmanam: 1. aluminium, aluminum 
+albatras: 1. albatross 
+alcól: 1. alcohol 
+altóir: 1. altar 
+amáireach: 1. tomorrow 
+am: 1. time, while 
+amanathar: 1. the day after tomorrow 
+ambasadóir: 1. ambassador 
+an: 1. the 
+an Aoine: 1. Friday 
+an Déardaoin: 1. Thursday 
+an Domhnach: 1. Sunday 
+an Gabhar: 1. Capricorn 
+an Luan: 1. Monday 
+an Márta: 1. March 
+an Meitheamh: 1. June 
+an Satharn: 1. Saturday 
+an tAibreán: 1. April 
+an Bhealtaine: 1. May 
+an Chéadaoin: 1. Wednesday 
+an Mháirt: 1. Tuesday 
+ana-: 1. quite, very, very much 
+anas: 1. anus, arse 
+ancaire: 1. anchor 
+anois: 1. at present, now 
+aois: 1. age 
+aon: 1. one 
+aon déag: 1. eleven 
+arán: 1. bread, loaf 
+arís: 1. afresh, again, once more 
+ar: 1. on, upon 
+ar chaoi éigin: 1. anyway, somehow 
+ar chuma éigin: 1. anyway, somehow 
+ar dhoigh éigin: 1. anyway, somehow 
+ar fad: 1. always, ever 
+ar feadh: 1. for, during, whereas, while, whilst 
+ar fud: 1. among, between 
+ar gcúl: 1. backward, backwards 
+araid: 1. box, chest 
+ard: 1. high, lofty, tall 
+ardeaglais: 1. cathedral 
+arm: 1. army 
+as: 1. from, out of 
+asal: 1. ass, donkey 
+asfalt: 1. asphalt 
+bád: 1. boat 
+báicéir: 1. baker 
+báisteach: 1. rain 
+bás: 1. death 
+bébhar: 1. beaver 
+béal: 1. lip 
+béar: 1. bear 
+béile: 1. meal 
+bíodh go: 1. though, although 
+bíodh is go: 1. though, although 
+bíosún: 1. bison, buffalo 
+bóchna: 1. ocean 
+bóthar: 1. road, route, way 
+bó: 1. cow 
+búistéir: 1. butcher 
+babaí: 1. baby 
+bagáiste: 1. baggage, luggage 
+bagún: 1. bacon 
+bailé: 1. ballet 
+baile beag: 1. village 
+baile mór: 1. city, town 
+bainne: 1. milk 
+baintreach: 1. widow 
+ball de Chumann na gCarad: 1. Quaker 
+bambú: 1. bamboo 
+ban-ab: 1. abbess 
+ban-aisteoir: 1. actress 
+banaltra: 1. nurse 
+banana: 1. banana 
+banc: 1. bank 
+banlaoch: 1. heroine 
+banríon: 1. queen 
+baol: 1. danger, peril 
+bascaed: 1. basket 
+beach: 1. bee 
+beathaigh: 1. feed, nourish 
+beagán: 1. a little, rather, some, somewhat, to some extent | 2. diminutive, little, small 
+beag: 1. diminutive, little, small 
+beagnach: 1. almost, nearly 
+bean: 1. wife | 2. woman 
+bean rialta: 1. nun 
+beannacht: 1. adieu, farewell, bye, goodbye 
+beithíoch: 1. animal 
+beith: 1. birch 
+beilt: 1. belt, girdle 
+beinsín: 1. gasolene, gasoline, petrol 
+beir: 1. bring, fetch 
+beo: 1. alive 
+beoir: 1. ale, beer 
+bitheog: 1. germ, microbe 
+bia: 1. food 
+binn: 1. corner 
+binse: 1. bench 
+binse breithimh: 1. tribunal 
+bláth: 1. bloom, flower 
+blas: 1. taste 
+bliain: 1. year 
+bogha báistí: 1. rainbow 
+bolg: 1. abdomen, belly, tummy 
+bord: 1. table 
+bosca: 1. box 
+bréag: 1. lie 
+bríce: 1. brick 
+bríste: 1. pants, trousers 
+bróg: 1. shoe 
+brónach: 1. dismal, gaunt, miserable, sad 
+bradán: 1. salmon 
+brainse: 1. bough, branch 
+bratóg shneachta: 1. snowflake 
+brat urláir: 1. carpet 
+breáthacht: 1. beauty 
+breac: 1. trout 
+breith: 1. birth 
+breoite: 1. ill, sick 
+broc: 1. badger 
+bruas: 1. lip 
+bruithneach: 1. hot 
+buí: 1. yellow 
+buíon: 1. class 
+buachaill: 1. boy, lad, laddie 
+bua: 1. triumph 
+buaf: 1. toad 
+buaigh: 1. triumph 
+buaic: 1. zenith 
+buama: 1. bomb 
+buicéad: 1. bucket, pail 
+buidéal: 1. bottle 
+buirgléir: 1. burglar 
+bus: 1. bus, autobus, omnibus 
+cáis: 1. cheese 
+cárta: 1. card, map, menu 
+cé go: 1. though, although 
+cé leis?: 1. whose? 
+céadchosach: 1. centipede 
+céad: 1. centennial, century 
+céir: 1. wax 
+cíos: 1. rent, rent money 
+císte: 1. cake 
+cóbalt: 1. cobalt 
+cócó: 1. cocoa 
+cócaon: 1. cocaine 
+cód: 1. code 
+cófra: 1. box, chest 
+cóimhiotal: 1. alloy 
+cóirigh: 1. prepare 
+cónaí: 1. abode, accommodation, dwelling, residence 
+cónaisc: 1. connect, connect up, plug in 
+cónra: 1. coffin 
+cóta mór: 1. coat, overcoat 
+cú: 1. dog 
+cúig: 1. five 
+cúil: 1. corner 
+cúinne: 1. angle | 2. corner 
+cúisigh: 1. accuse 
+cúl: 1. back 
+cúnamh: 1. aid, help | 2. aid, help 
+cúntóir: 1. aid, assistant, helper | 2. aid, assistent, helper 
+cúram: 1. family 
+cabhail: 1. body 
+cathair: 1. city, metropolis 
+cathaoir: 1. chair 
+cab: 1. lip 
+cad 'na thaobh?: 1. why? 
+cafarr: 1. helmet 
+caithréim: 1. triumph 
+caife: 1. coffee 
+cailín: 1. girl, lass, wench 
+cailciam: 1. calcium 
+caipiteal: 1. capital 
+caipitlí: 1. capitalist 
+cairéad: 1. carrot 
+cairpéad: 1. carpet 
+caisleán: 1. castle 
+calóg shneachta: 1. snowflake 
+caladh: 1. harbor, harbour, port 
+calafort: 1. harbor, harbour, port 
+canáil: 1. canal, channel 
+caochán: 1. mole 
+caoga: 1. fifty 
+caoireoil: 1. mutton 
+caol: 1. narrow 
+caol na coise: 1. ankle 
+caor: 1. berry 
+caora: 1. sheep 
+capall: 1. horse 
+captaen: 1. captain 
+cara: 1. friend 
+carbán: 1. carp 
+carbón: 1. carbon 
+carbradóir: 1. carburettor 
+carr: 1. car 
+carracán: 1. rock 
+carraig: 1. rock 
+casóg: 1. coat, overcoat 
+casúr: 1. hammer 
+cat: 1. cat 
+ceacht: 1. lesson 
+cead: 1. permission 
+ceangail: 1. connect, connect up, plug in 
+ceannbheart: 1. helmet 
+ceannaí: 1. buyer, client, purchaser 
+cearc: 1. chicken, fowl 
+cearn: 1. angle | 2. corner 
+cearr: 1. erroneous, mistaken, wrong 
+ceint: 1. cent | 2. feel, feeling, sensation 
+ceintiméadar: 1. centimetre 
+ceist: 1. question 
+ceol: 1. music 
+ceoldráma: 1. opera 
+ciallmhar: 1. sagacious, sage, wise 
+cian: 1. long 
+ciaróg: 1. beetle | 2. beetle 
+cileagram: 1. kilo 
+ciliméadar: 1. kilometre 
+cill: 1. cemetery, God's acre, graveyard 
+cine: 1. breed, race 
+ciniciúil: 1. cynical 
+cioclón: 1. cyclone 
+ciombal: 1. cymbal 
+ciontaigh: 1. accuse 
+cior: 1. comb 
+ciseán: 1. basket 
+ciste: 1. box, chest 
+cistin: 1. kitchen 
+clíoma: 1. climate 
+clóirín: 1. chlorine 
+clúid: 1. corner 
+clann: 1. family 
+claontacht: 1. prejudice 
+cleasaí: 1. acrobat 
+cliabh: 1. basket 
+cliant: 1. client, customer 
+cloch: 1. stone 
+cloch shneachta: 1. hail 
+clog: 1. clock, watch 
+clog aláraim: 1. alarm, alarmclock 
+clogad: 1. helmet 
+cluas: 1. ear 
+cluiche: 1. game 
+cnámh: 1. bone 
+cnámh radúil: 1. radius 
+cnó cócó: 1. coconut 
+cneas: 1. skin 
+cnoc: 1. hill 
+comhairle: 1. advice, counsel 
+comhairligh: 1. advise, counsel 
+comharsa: 1. neighbour 
+comhrá: 1. conversation 
+cothaigh: 1. feed, nourish 
+cocún: 1. cocoon 
+codlach: 1. sleep 
+cogadh: 1. war 
+coill: 1. forest, woods 
+coinín: 1. rabbit 
+coinneac: 1. brandy, cognac 
+coirce: 1. oats 
+coirnéal: 1. corner 
+colainn: 1. body 
+colgach: 1. angry, cross 
+comóir: 1. accompany 
+compordach: 1. comfortable 
+confadh: 1. rabies 
+contúirt: 1. danger, peril 
+contráilte: 1. erroneous, mistaken, wrong 
+copar: 1. copper 
+corpán: 1. body 
+corp: 1. body 
+corr éisc: 1. heron 
+cos: 1. leg | 2. leg, paw 
+cráin: 1. sow 
+cré-umha: 1. bronze 
+cré: 1. clay 
+créafóg: 1. clay 
+cró: 1. blood 
+cróimiam: 1. chromium 
+craiceann: 1. skin 
+crann: 1. tree | 2. mast 
+crann teile: 1. lime-tree, linden-tree 
+craobh: 1. bough, branch 
+creid: 1. account, accredit, believe, deem 
+creig: 1. rock 
+crios: 1. zone 
+crogall: 1. crocodile 
+crua-ae: 1. liver 
+csileafón: 1. xylophone 
+cuach: 1. cuckoo 
+cuan: 1. harbor, harbour, port 
+cugróg: 1. cypres 
+cuiditheoir: 1. aid, assistant, helper | 2. aid, assistent, helper 
+cuil: 1. fly, housefly 
+cuileann: 1. holly 
+cuileog: 1. fly, housefly 
+cuma: 1. equal, even, level 
+cuntas: 1. account 
+cupán: 1. cup 
+curadh: 1. hero 
+curaí: 1. curry 
+dá: 1. two 
+dán: 1. poem 
+dásachtach: 1. crazy, insane, mad, nuts 
+déan réidh: 1. prepare 
+déanamh: 1. achieve, act, do, make, perform 
+déantús: 1. achieve, act, do, make, perform 
+díreach: 1. direct, straight 
+dóighiúil: 1. beautiful, fine, handsome, lovely 
+dúisigh: 1. arouse, wake, awaken, wake up | 2. wake, wake up 
+damháin alla: 1. spiderweb 
+dathúil: 1. beautiful, fine, handsome, lovely 
+dath: 1. colour, dye 
+daidí: 1. dad, daddy 
+daid: 1. dad, daddy 
+dainséar: 1. danger, peril 
+dair: 1. oak 
+daor: 1. costly, dear, expensive, pricey | 2. slave 
+deacair: 1. difficult, hard, inconvenient 
+deartháir: 1. brother 
+dearcán: 1. acorn 
+dearg: 1. red 
+dearmad: 1. forget 
+dearmadach: 1. forgetful 
+deasghnáth: 1. ceremony 
+deas: 1. pretty 
+deatach: 1. smoke 
+deich: 1. ten 
+deir: 1. herpes 
+deireadh: 1. end, ending 
+deirfiúr: 1. sister 
+diúl: 1. suck 
+diallait: 1. saddle 
+dlí: 1. law 
+dobhareach: 1. hippo, hippopotamus 
+dochtúir: 1. doctor, physician 
+domhan: 1. world 
+do: 1. at, to, toward, towards 
+doimhin: 1. deep, profound 
+dona: 1. bad, miserable, nasty, poor 
+donn: 1. brown 
+dordbhdhil: 1. cello 
+drúchtín: 1. slug 
+drúthlann: 1. brothel 
+dreap: 1. climb 
+droichead: 1. bridge 
+droim: 1. back 
+dubh: 1. black 
+duán: 1. kidney 
+duan: 1. poem 
+duine: 1. person 
+duine éigin: 1. a, any, anybody, some, somebody, one, someone, some one 
+eaglach: 1. afraid 
+eaglais: 1. church, church-building, house of worship, place of worship 
+eala: 1. swan 
+eas: 1. waterfall | 2. waterfall 
+eascainne: 1. oath 
+easpag: 1. bishop 
+eilc: 1. elk, moose 
+eile: 1. other, another, else 
+eilifint: 1. elephant 
+eitinn: 1. tuberculosis 
+eitleán: 1. aeroplane, airplane, plane 
+eochair: 1. key, wrench 
+eochraí: 1. roe 
+fáibhile: 1. beech 
+féar: 1. hay 
+féasóg: 1. beard 
+féileacán: 1. butterfly 
+fíon: 1. wine 
+fírinne: 1. truth | 2. reality, truth 
+fómhar: 1. harvest 
+fógair: 1. advertise, announce, give notice 
+fógraíocht: 1. ad, advertisement 
+fógra: 1. ad, advertisement 
+fós: 1. afresh, again, once more 
+fada: 1. long 
+fail: 1. hiccup 
+fair: 1. abide, expect, wait, await, wait for 
+faiteach: 1. afraid 
+falla: 1. wall 
+fan le: 1. abide, expect, wait, await, wait for 
+faomh: 1. accept, receive, take, take in 
+faoi: 1. across from, against, in exchange for, opposed to, opposite, upon | 2. below, beneath, under, underneath 
+faoi bhun: 1. below, beneath, under, underneath 
+faolchu: 1. wolf 
+farraige: 1. sea 
+farraige mhór: 1. ocean 
+feá: 1. beech 
+feabhas: 1. goodness 
+fear: 1. fellow, man 
+feargach: 1. angry, cross 
+fearr: 1. better 
+feidhmeannach: 1. agent 
+feirm: 1. estate, farm, property, ranch 
+feoil: 1. meat 
+fia: 1. deer 
+fia mór: 1. elk, moose 
+fiacail: 1. tooth 
+fiafraigh: 1. ask 
+fige: 1. fig 
+fine: 1. family 
+fionn: 1. blond, fair 
+flaitheas: 1. kingdom 
+fliuch: 1. wet 
+focal: 1. word 
+foiche: 1. wasp 
+folamh: 1. empty, void 
+folracht: 1. blood 
+foltbhuí: 1. blond, fair 
+foraois: 1. forest, woods 
+forc: 1. fork 
+forma: 1. bench 
+fosfar: 1. phosphorus 
+fosta: 1. also, likewise, too 
+francach: 1. rat 
+fraochán: 1. hooker, whore 
+freagair: 1. answer, reply, respond 
+freagra: 1. answer, reply 
+freisin: 1. also, likewise, too 
+frog: 1. frog 
+fuar: 1. bleak, chilly, cold | 2. bleak, chilly, cold 
+fuil: 1. blood 
+fuinneag: 1. window 
+fuinseog: 1. ash 
+fuisce: 1. whisky, whiskey 
+gábh: 1. danger, peril 
+gé: 1. goose 
+gúna: 1. dress, gown, robe 
+gabha: 1. smith 
+gabhal: 1. bough, branch 
+gabhlóg: 1. fork 
+gadhar: 1. dog 
+gairdín: 1. garden 
+gaiscíoch: 1. hero 
+gallchnó: 1. walnut 
+gallúnach: 1. soap 
+gan: 1. without 
+gaoth: 1. wind 
+garsún: 1. boy, lad, laddie 
+gasúr: 1. boy, lad, laddie 
+gasra: 1. bough, branch 
+gealbhan: 1. sparrow 
+geal: 1. bright, clear, light 
+gealach: 1. moon 
+gearán: 1. accuse 
+gearranálach: 1. asthmatic, wheezy 
+giúis: 1. pine, pine-tree 
+gin: 1. birth 
+gléas: 1. prepare 
+glac: 1. accept, receive, take, take in 
+glas: 1. green 
+gleacaí: 1. acrobat 
+gleo: 1. ado, din, noise 
+gloine: 1. glass 
+gluaisteán: 1. car 
+gníomhaire: 1. agent 
+gnaíúil: 1. beautiful, fine, handsome, lovely 
+gnaoi: 1. beauty 
+go: 1. at, to, toward, towards | 2. that 
+go brách: 1. always, ever 
+go buan: 1. always, ever 
+go hannamh: 1. seldom 
+go maith: 1. okay, well 
+go moch: 1. early 
+gorm: 1. blue 
+gráig: 1. village 
+gram: 1. gram, gramme 
+gramadach: 1. grammar 
+grian: 1. sun 
+guais: 1. danger, peril 
+gunnán: 1. revolver 
+gunna: 1. gun, rifle 
+gur: 1. that 
+guta: 1. vowel 
+héadónachas: 1. hedonism 
+hata: 1. hat 
+hearóin: 1. heroin 
+heicseagán: 1. hexagon 
+heictiméadar: 1. hectometre 
+hiéana: 1. hyaena 
+iógart: 1. yoghourt, yoghurt 
+iúr: 1. yew-tree 
+i: 1. a, in, inside, into, on, per, within 
+i do bheatha: 1. alive 
+i dtólamh: 1. always, ever 
+i dteannta a chéile: 1. together 
+i gcónaí: 1. always, ever 
+i gceann a chéile: 1. together 
+i gcoinne: 1. across from, against, in exchange for, opposed to, opposite, upon 
+i measc: 1. among, between 
+i n-aice: 1. at, beside, by, near, nearby, near to, next to 
+iaidín: 1. iodine 
+iarthar: 1. west, West 
+iarann: 1. iron 
+iarnóin: 1. afternoon 
+iarr: 1. ask 
+iarracht: 1. attempt, test 
+iarraidh: 1. attempt, test 
+iasc: 1. fish 
+iascaire: 1. fisherman 
+idir: 1. among, between 
+ifreanda: 1. infernal 
+ifreann: 1. hell 
+im: 1. butter 
+impigh: 1. ask, ask for, beg, bid, request 
+inchinn: 1. brain 
+iníon: 1. daughter 
+in éadan: 1. across from, against, in exchange for, opposed to, opposite, upon 
+in éineacht: 1. together 
+in aghaidh: 1. across from, against, in exchange for, opposed to, opposite, upon 
+inné: 1. yesterday 
+inniu: 1. today 
+iolair: 1. eagle 
+iomardaigh: 1. accuse 
+iompair: 1. carry, wear 
+ionadaí: 1. agent 
+ionsaí: 1. attempt, test 
+ionsaigh: 1. assault, attack 
+iora: 1. squirrel 
+is: 1. and 
+is dócha: 1. probably 
+istóiche: 1. at night, by night, during the night 
+lámh: 1. hand 
+lá: 1. day 
+lá breithe: 1. birthday 
+láithrigh: 1. appear, emerge, perform 
+láidir: 1. strong 
+lán: 1. complete, full 
+lí: 1. colour, dye 
+líon: 1. spiderweb | 2. net, network 
+líon tí: 1. family 
+lítear: 1. liter, litre 
+lúthchleasaí: 1. athlete 
+lúithnire: 1. athlete 
+lacha: 1. duck 
+ladhar: 1. toe 
+laistíos: 1. below, downstairs, underneath | 2. below, underneath 
+lampa: 1. lamp 
+laoch: 1. hero 
+laoi: 1. poem 
+lastuas: 1. above, over | 2. above, on top, overhead, upstairs 
+le chéile: 1. together 
+leabhar: 1. book 
+leathan: 1. broad 
+leathar: 1. skin | 2. leather 
+leaba: 1. bed 
+leanbaí: 1. baby 
+leann: 1. ale, beer 
+leas: 1. good, nice, okay 
+leis: 1. also, likewise, too 
+leisce: 1. laziness 
+leor: 1. enough, sufficient 
+liopa: 1. lip 
+litir: 1. letter 
+loch: 1. lake, loch 
+logh: 1. forgive, pardon 
+loingseoir: 1. sailor 
+lon: 1. blackbird 
+lon dubh: 1. blackbird 
+loscann: 1. frog 
+lubhóg shneachta: 1. snowflake 
+luch: 1. mouse 
+luamh: 1. yacht 
+luaidhe: 1. lead 
+luaith: 1. ash, cinder 
+luaithreadán: 1. ashtray 
+luch mhor: 1. rat 
+máthair chríonna: 1. grandmother 
+máthair mhor: 1. grandmother 
+máthairab: 1. abbess 
+máthair: 1. mother 
+méadar: 1. metre 
+méarchlár: 1. keyboard 
+méar coise: 1. toe 
+mí: 1. month 
+mí na Feabhra: 1. February 
+mí na Lúnasa: 1. August 
+mí na Nollag: 1. December 
+mí na Samhna: 1. November 
+míle: 1. mile | 2. thousand, one thousand 
+míol: 1. animal 
+míoleolaíocht: 1. zoology 
+móilín: 1. molecule 
+móimint: 1. instant, moment 
+móin: 1. peat 
+mór: 1. big, great, large 
+múchadh: 1. asthma, shortness of breath, wheeziness 
+múchtach: 1. asthmatic, wheezy 
+múinteoir: 1. instructor, teacher 
+múscail: 1. arouse, wake, awaken, wake up | 2. wake, wake up 
+mac: 1. son 
+mac dearthair: 1. nephew 
+mac deirféar: 1. nephew 
+mac tíre: 1. wolf 
+madra rua: 1. fox 
+maighnéad: 1. magnet 
+maith: 1. good, nice, okay | 2. forgive, pardon 
+maitheas: 1. good, nice, okay 
+maignéisiam: 1. magnesium 
+mainistir: 1. abbey 
+maircréal: 1. mackerel 
+mairnéalach: 1. sailor 
+mairteoil: 1. beef 
+maise: 1. beauty 
+maisiúil: 1. beautiful, fine, handsome, lovely 
+mall: 1. slow 
+mam: 1. mam, mammy, mom, mommy 
+mamaí: 1. mam, mammy, mom, mommy 
+mamanna: 1. mam, mammy, mom, mommy 
+manach: 1. monk 
+maraí: 1. sailor 
+maraigh: 1. kill, liquidate, slay 
+marmaláid: 1. jam, marmelade 
+meacan dearg: 1. carrot 
+meall: 1. tumor, tumour 
+mearcair: 1. mercury, quicksilver 
+meigeall: 1. beard 
+meirleach: 1. bandit 
+micreafón: 1. microphone 
+micreascóp: 1. microscope 
+milis: 1. gentle, soft, sweet, tender 
+milliún: 1. million 
+milliméadar: 1. millimetre 
+miocrób: 1. germ, microbe 
+mionn: 1. oath 
+mol: 1. advise, counsel 
+moladh: 1. advice, counsel 
+moncaí: 1. ape, monkey 
+muc: 1. hog, pig, swine 
+muiceoil: 1. pork 
+muiléad: 1. millet 
+muin: 1. back 
+muintir: 1. family 
+muirear: 1. family 
+murnán: 1. ankle 
+náire: 1. shame 
+néal: 1. cloud 
+níolón: 1. nylon 
+nítrigin: 1. nitrogen 
+nó: 1. or 
+nóiméad: 1. instant, moment 
+nach mór: 1. almost, nearly 
+na: 1. the 
+naoi: 1. nine 
+nathair: 1. serpent, snake 
+neamh: 1. heaven, sky 
+nead: 1. bed | 2. den, nest 
+neon: 1. neon 
+nia: 1. nephew 
+nicil: 1. nickel 
+nocht: 1. appear, emerge, perform 
+nua: 1. new, novel 
+ocht: 1. eight 
+oíche: 1. night 
+ocras: 1. hunger 
+ocsaigin: 1. oxygen 
+oirfide: 1. music 
+ola: 1. oil 
+olc: 1. bad, miserable, nasty, poor 
+ordóg: 1. thumb 
+orlach: 1. inch 
+os comhair: 1. before, in front of 
+os coinne: 1. before, in front of 
+ospídéal: 1. hospital 
+páipéar: 1. paper 
+pápa: 1. pope 
+píce: 1. fork 
+póg: 1. kiss 
+púma: 1. cougar, mountain lion, puma 
+paróiste: 1. parish 
+pian: 1. ache, pain 
+pingin: 1. penny 
+pioc: 1. nothing 
+pirimid: 1. pyramid 
+pis: 1. roe 
+piseog: 1. superstition 
+pitseámaí: 1. pyjamas 
+plúchadh: 1. asthma, shortness of breath, wheeziness 
+plúr: 1. flour, meal 
+plútóiniam: 1. plutonium 
+plaincéad: 1. blanket 
+platanam: 1. platinum 
+pocán: 1. he-goat 
+poll: 1. hole 
+port: 1. harbor, harbour, port 
+potaisiam: 1. potassium 
+práta: 1. potato 
+préamh: 1. root 
+praghas: 1. price 
+punt: 1. pound 
+rámh: 1. oar 
+ré: 1. age 
+réamhchlaonadh: 1. prejudice 
+réalta: 1. star 
+rí: 1. king 
+ríocht: 1. kingdom 
+rón: 1. seal, sea-dog 
+rúitín: 1. ankle 
+rabhadh: 1. alarm 
+rachmas: 1. capital 
+ramhar: 1. fat, grease 
+racún: 1. raccoon, racoon, washing-bear 
+raca: 1. comb 
+rachmasaí: 1. capitalist 
+radaitheoir: 1. radiator 
+radar: 1. radar 
+raibí: 1. rabbi 
+raidió: 1. radio, wireless 
+raidiam: 1. radium 
+raidis: 1. radish 
+reacht: 1. law 
+reachtas: 1. administration, management 
+reilig: 1. cemetery, God's acre, graveyard 
+riar: 1. administration, management 
+riarachán: 1. administration, management 
+ribe: 1. hair 
+rince: 1. dance 
+rogha: 1. choice, election 
+rothar: 1. bike, cycle, bicycle 
+robálaí: 1. robber 
+robat: 1. robot 
+roimh: 1. before, in front of 
+roicéad: 1. rocket 
+ruibh: 1. brimstone, sulphur 
+sáil: 1. heel | 2. heel 
+sár: 1. czar 
+sé: 1. six | 2. her, she 
+sé déag: 1. sixteen 
+séabra: 1. zebra 
+séipéal: 1. church, church-building, house of worship, place of worship 
+síceolaí: 1. psychologist 
+síceolaíocht: 1. psychology 
+síciatracht: 1. psychiatry 
+síciatraí: 1. psychiatrist 
+síol: 1. seed 
+só-eolaíocht: 1. zoology 
+sóidiam: 1. sodium 
+sóisialachas: 1. socialism 
+sóisialaí: 1. socialist 
+sú: 1. zoo 
+sú craobh: 1. raspberry 
+súigh: 1. suck 
+súil: 1. eye 
+súraic: 1. suck 
+sabhdán: 1. sultan 
+saghas: 1. kind, sort 
+sacar: 1. football, soccer 
+sagart: 1. clergyman, pastor, priest | 2. priest 
+saibhir: 1. affluent, rich, wealthy, well-off 
+saighdiúir: 1. pawn, soldier 
+salach: 1. dirty, filthy, nasty, soiled, unclean 
+salm: 1. psalm 
+saolú: 1. birth 
+saor: 1. cheap, inexpensive | 2. cheap, inexpensive 
+scéal: 1. account, narrative, story, tale 
+scéimh: 1. beauty 
+scadán: 1. herring 
+scamall: 1. cloud 
+scaoll: 1. alarm 
+sciamhach: 1. beautiful, fine, handsome, lovely 
+scian: 1. knife 
+scilling: 1. shilling 
+sclábhaí: 1. slave 
+scoil: 1. school 
+scríbhneoir: 1. clerk 
+seabhac: 1. hawk 
+seachain: 1. avoid, evade 
+seacht: 1. seven 
+seachtain: 1. week 
+seamlas: 1. butcher's shop 
+seanmháthair: 1. grandmother 
+seanathair: 1. grandfather 
+seangán: 1. ant, emmet 
+searbh: 1. acetous, acid, sour, tart | 2. acid 
+searmanas: 1. ceremony 
+seasca: 1. sixty 
+seithe: 1. skin 
+seic: 1. check, cheque 
+seilide: 1. snail | 2. slug 
+seol: 1. sail 
+seomra codlata: 1. bedroom 
+seomra leapa: 1. bedroom 
+siúcra: 1. sugar 
+siúnéir: 1. carpenter 
+siad: 1. tumor, tumour 
+siar: 1. backward, backwards 
+silín: 1. cherry 
+sinc: 1. zinc 
+sioc: 1. freezing cold, frost 
+sionnach: 1. fox 
+siopa: 1. boutique, shop, store 
+sioráf: 1. giraffe 
+slán: 1. adieu, farewell, bye, goodbye 
+sliabh: 1. mountain 
+smál: 1. cloud 
+sméar: 1. berry 
+sméar dubh: 1. blackberry 
+smig: 1. chin 
+smuigléir: 1. smuggler 
+smuigleáil: 1. smuggle 
+snag: 1. hiccup 
+sneachta: 1. snow 
+snua: 1. colour, dye 
+socheolaíocht: 1. sociology 
+soirbhíoch: 1. optimist 
+soir: 1. east, eastward, eastwards 
+sorcóir: 1. cylinder, roller 
+spéir: 1. heaven, sky 
+spíonán: 1. gooseberry 
+sráidbhaile: 1. village 
+sráid: 1. street 
+srónbheannach: 1. rhino, rhinoceros 
+srón: 1. nose 
+sruth: 1. river 
+stáisiún: 1. station 
+stán: 1. tin 
+stól: 1. stool 
+staighre: 1. staircase, stairs 
+stoc: 1. trumpet 
+stoca gearr: 1. sock 
+stoidiaca: 1. zodiac 
+stoirm: 1. storm 
+stróinséir: 1. foreigner, stranger 
+stroighin: 1. cement 
+suan: 1. sleep 
+suigh: 1. sit 
+suimint: 1. cement 
+sulfar: 1. brimstone, sulphur 
+tástáil: 1. taste 
+téad: 1. spiderweb | 2. cord, rope, string 
+tóg: 1. climb 
+tóraí: 1. bandit 
+tabhair: 1. bring, fetch 
+taibhsigh: 1. appear, emerge, perform 
+taidhleoir: 1. diplomat 
+tairbhe: 1. good, nice, okay 
+taisme: 1. accident 
+taispeáin: 1. appear, emerge, perform 
+taobh: 1. side 
+taobh thíos de: 1. below, beneath, under, underneath 
+tapaidh: 1. fast, quick, rapid, speedy, swift 
+tarbh: 1. bull 
+tar: 1. come 
+tarr: 1. abdomen, belly, tummy 
+tarraing: 1. suck 
+tart: 1. thirst 
+te: 1. warm | 2. hot 
+teach pobail: 1. church, church-building, house of worship, place of worship 
+teaghlach: 1. family 
+teanga: 1. tongue | 2. language, tongue 
+teith ó: 1. avoid, evade 
+teochreasach: 1. tropical 
+tiúilip: 1. tulip 
+ticéad: 1. bill, ticket, note 
+timpireacht: 1. anus, arse 
+timpiste: 1. accident 
+tionóisc: 1. accident 
+tionlaic: 1. accompany 
+tionscain: 1. begin, commence, start | 2. begin, commence, start 
+tirim: 1. dry 
+tobac: 1. tobacco 
+todóg: 1. cigar 
+toitín: 1. cigarette 
+tolg: 1. sofa 
+tollán: 1. tunnel 
+tosaigh: 1. begin, commence, start | 2. begin, commence, start 
+tráthnóna: 1. afternoon 
+trá: 1. beach 
+tráill: 1. slave 
+trí: 1. among, between | 2. three 
+trópaiceach: 1. tropical 
+traein: 1. train | 2. train 
+trasna: 1. through 
+treabhsar: 1. pants, trousers 
+triantán: 1. triangle 
+triantánach: 1. triangular 
+triantánacht: 1. trigonometry 
+triológ: 1. trilogy 
+troimpéad: 1. trumpet 
+trom: 1. burdensome, heavy, onerous 
+trombón: 1. trombone 
+trosc: 1. cod, codfish 
+truís: 1. pants, trousers 
+trumpa: 1. trumpet 
+tua: 1. axe 
+tuairim: 1. opinion 
+tuaisceart: 1. north, North 
+tuaisceartach: 1. northern 
+tuar ceatha: 1. rainbow 
+tuirseach: 1. tired 
+turcaí: 1. turkey 
+turtar: 1. tortoise 
+ubh: 1. egg 
+umha: 1. bronze 
+uair: 1. hour, o'clock, time 
+uaireadóir láimhe: 1. watch, wrist-watch 
+ualach: 1. burden, charge, load 
+uillinn: 1. angle 
+uisce: 1. water 
+uisce beatha: 1. whisky, whiskey 
+ulcha: 1. beard 
+ullmhaigh: 1. prepare 
+ullamh: 1. finished, ready, through 
+uncail: 1. uncle 
+urlár: 1. floor 
+Bhársá: 1. Warsaw 
+Bhín: 1. Vienna 
+Bhítneam: 1. Vietnam 
+Bheiniséala: 1. Venezuela 

@@ -1,0 +1,1344 @@
+a:  i |  duine éigin 
+abbess:  ban-ab, máthairab 
+abbey:  mainistir 
+abbot:  ab 
+abdomen:  bolg, tarr 
+abide:  fair, fan le 
+abode:  cónaí 
+above:  lastuas
+Abyssinia:  An Aetóip 
+academic:  acadúil 
+academy:  acadamh 
+accept:  faomh, glac 
+accident:  taisme, timpiste, tionóisc 
+accommodation:  cónaí 
+accompany:  comóir, tionlaic 
+account:  cuntas |  creid 
+accredit:  creid 
+accuse:  ciontaigh, cúisigh, gearán, iomardaigh 
+acerbic:  géar 
+acetous:  aigéadach, searbh 
+ache:  pian 
+achieve:  déanamh, déantús 
+acid:  aigéadach, searbh |  aigéad, searbh 
+acorn:  dearcán 
+acquire:  ceannaigh 
+acre:  acra 
+acrobat:  cleasaí, gleacaí 
+across:  thar 
+across from:  faoi, i gcoinne, in aghaidh, in éadan 
+act:  déanamh, déantús 
+actor:  aisteoir 
+actress:  ban-aisteoir 
+ad:  fógra, fógraíocht 
+add:  suimigh 
+add up:  suimigh 
+adieu:  beannacht, slán 
+adjutant:  aidiúnach 
+administration:  reachtas, riar, riarachán 
+admiral:  aimiréal 
+ado:  gleo 
+adopt:  uchtaigh
+adore:  adhair 
+advertise:  fógair 
+advertisement:  fógra, fógraíocht 
+advice:  comhairle, moladh 
+advise:  comhairligh, mol 
+aeroplane:  eitleán 
+affluent:  saibhir 
+Afghanistan:  An Afganastáin 
+afraid:  eaglach, faiteach 
+afresh:  arís, athuair, fós 
+Africa:  An Afraic 
+afternoon:  iarnóin, tráthnóna 
+again:  arís, athuair, fós 
+against:  faoi, i gcoinne, in aghaidh, in éadan 
+age:  aois, ré 
+agent:  feidhmeannach, gníomhaire, ionadaí 
+aid:  cuiditheoir, cúntóir |  cúnamh
+aide-de-camp:  aidiúnach 
+air:  aer 
+aircraft:  aerárthach 
+airplane:  eitleán 
+airport:  aerfort 
+alarm:  aláram, rabhadh, scaoll |  clog aláraim 
+alarmclock:  clog aláraim 
+Albania:  An Albáin 
+Albanian:  Albáinis 
+Albanian language:  Albáinis 
+albatross:  albatras 
+alcohol:  alcól 
+ale:  beoir, leann 
+algebra:  ailgéabar 
+Algeria:  An Ailgéir 
+alibi:  ailibí 
+a little:  beagán 
+alive:  beo, i do bheatha 
+alligator:  ailigéadar 
+alloy:  cóimhiotal 
+all the:  gach 
+almost:  beagnach, nach mór 
+aloe:  aló 
+alphabet:  aibítir 
+Alps:  Alpa 
+already:  cheana 
+also:  fosta, freisin, leis 
+altar:  altóir 
+alter:  athraigh 
+although:  bíodh go, bíodh is go, cé go 
+aluminium:  alúmanam 
+aluminum:  alúmanam 
+always:  ar fad, choíche, go buan, go brách, i dtólamh, i gcónaí 
+Amazon:  Amasóin 
+ambassador:  ambasadóir 
+ambulance:  otharcharr 
+America:  Meiriceá 
+among:  ar fud, idir, i measc, trí 
+ampère:  aimpéar 
+Amsterdam:  Amsterdam 
+anchor:  ancaire 
+and:  agus, is 
+Andes:  Aindéis 
+angel:  aingeal 
+angle:  cearn, cúinne, uillinn 
+angry:  colgach, feargach 
+animal:  ainmhí, beithíoch, míol 
+ankle:  caol na coise, murnán, rúitín 
+announce:  fógair 
+another:  eile 
+answer:  freagair |  freagra 
+ant:  seangán 
+anus:  anas, áthán, timpireacht 
+anvil:  inneoin 
+any:  duine éigin 
+anybody:  duine éigin 
+anyway:  ar chaoi éigin, ar chuma éigin, ar dhoigh éigin 
+apart from:  ach 
+ape:  ápa, moncaí 
+Apennines:  Aipiníní 
+appear:  láithrigh, nocht, taibhsigh, taispeáin 
+appellation:  ainm 
+apple:  úll 
+April:  an tAibreán 
+Argentina:  An Airgintín 
+arm:  lámh 
+army:  arm 
+arouse:  dúisigh, múscail 
+arrive:  ráinigh, tar 
+arse:  anas, áthán, timpireacht 
+ash:  luaith |  fuinseog 
+ashtray:  luaithreadán 
+Asia:  An Áise 
+ask:  fiafraigh, iarr |  achainigh, impigh 
+ask for:  achainigh, impigh 
+asphalt:  asfalt 
+ass:  asal 
+assault:  ionsaigh 
+assistant:  cuiditheoir, cúntóir 
+assistent:  cuiditheoir, cúntóir 
+asthma:  múchadh, plúchadh 
+asthmatic:  gearranálach, múchtach 
+at:  chun, do, go |  i n-aice 
+atheist:  aindiachaí 
+Athens:  An Aithin 
+athlete:  lúthchleasaí, lúithnire 
+Atlantic:  Aigéan Alantach 
+Atlantic Ocean:  Aigéan Alantach 
+at night:  istóiche 
+atom:  adamh 
+at present:  anois 
+attack:  ionsaigh 
+attempt:  iarracht, iarraidh, ionsaí 
+August:  mí na Lúnasa 
+aunt:  aintín 
+Australia:  An Astráil 
+Austria:  An Ostair 
+author:  údar 
+autobus:  bus 
+autumn:  Fómhar 
+avoid:  seachain, teith ó 
+await:  fair, fan le 
+awaken:  dúisigh, múscail 
+axe:  tua 
+baby:  babaí, leanbaí 
+back:  cúl, droim, muin 
+backward:  ar gcúl, siar 
+backwards:  ar gcúl, siar 
+bacon:  bagún 
+bad:  dona, olc 
+badger:  broc 
+bag:  bolg, mála
+baggage:  bagáiste 
+bairn:  leanbh, gasúr, páiste 
+baker:  báicéir 
+Balkans:  Balcáin 
+ballet:  bailé 
+bamboo:  bambú 
+banana:  banana 
+bandit:  meirleach, tóraí 
+Bangladesh:  An Bhanglaidéis 
+bank:  banc 
+basket:  bascaed, ciseán, cliabh 
+Basque:  Bascais 
+Basque language:  Bascais 
+beach:  trá 
+bear:  béar 
+beard:  féasóg, meigeall, ulcha 
+beautiful:  álainn, dathúil, dóighiúil, gnaíúil, maisiúil, sciamhach 
+beauty:  áilleacht, breáthacht, gnaoi, maise, scéimh 
+beaver:  bébhar 
+bed:  leaba, nead 
+bedroom:  seomra leapa, seomra codlata 
+bee:  beach 
+beech:  fáibhile, feá 
+beef:  mairteoil 
+beer:  beoir, leann 
+beetle:  ciaróg
+before:  roimh, os comhair, os coinne 
+beg:  achainigh, impigh 
+begin:  tionscain, tosaigh 
+behind:  thiar 
+Belfast:  Béal Feirste 
+Belgium:  An Bheilg 
+believe:  creid 
+belly:  bolg, tarr 
+below:  laistíos, thíos |  faoi, faoi bhun, taobh thíos de
+belt:  beilt 
+bench:  binse, forma 
+beneath:  faoi, faoi bhun, taobh thíos de 
+Berlin:  Beirlín 
+berry:  caor, sméar 
+beside:  i n-aice 
+Bethlehem:  An Bheithil 
+better:  fearr 
+between:  ar fud, idir, i measc, trí 
+beyond:  thar 
+bicycle:  rothar 
+bid:  achainigh, impigh 
+big:  mór 
+bike:  rothar 
+bill:  ticéad 
+birch:  beith 
+bird:  éan 
+birth:  breith, gin, saolú 
+birthday:  lá breithe 
+bishop:  easpag 
+bison:  bíosún 
+black:  dubh 
+blackberry:  sméar dubh 
+blackbird:  lon, lon dubh 
+blank:  bán, fionn, geal 
+blanket:  plaincéad 
+blond:  fionn, foltbhuí 
+blood:  cró, folracht, fuil 
+bloom:  bláth 
+blue:  gorm 
+blushing:  dearg 
+boat:  árthach, bád 
+body:  cabhail, colainn, corp, corpán 
+bomb:  buama 
+bone:  cnámh 
+book:  leabhar 
+bottle:  buidéal 
+bough:  brainse, craobh, gabhal, gasra 
+boutique:  siopa 
+box:  araid, ciste, cófra |  bosca 
+boy:  buachaill, garsún, gasúr 
+brain:  inchinn 
+branch:  brainse, craobh, gabhal, gasra 
+brandy:  coinneac 
+Brazil:  An Bhrasaíl 
+bread:  arán 
+breed:  cine 
+Bretagne:  An Bhriotáin 
+brick:  bríce 
+bridge:  droichead 
+bright:  geal 
+brimstone:  ruibh, sulfar 
+bring:  beir, tabhair 
+Bristol:  Briostó 
+Britain:  An Bhreatain, An Bhreatain Mhór 
+Brittany:  An Bhriotáin 
+broad:  leathan 
+bronze:  umha, cré-umha 
+brothel:  drúthlann 
+brother:  deartháir 
+brown:  donn 
+Brussels:  An Bhruiséil 
+Bucharest:  Búcairist 
+bucket:  buicéad 
+Budapest:  Búdaipeist 
+buffalo:  bíosún 
+Bulgaria:  An Bhulgáir 
+bull:  tarbh 
+burden:  ualach 
+burdensome:  trom 
+burglar:  buirgléir 
+Burma:  Burma 
+bus:  bus 
+but:  ach
+butcher:  búistéir 
+butcher's shop:  seamlas 
+butter:  im 
+butterfly:  féileacán 
+buy:  ceannaigh 
+buyer:  ceannaí 
+by:  i n-aice |  de 
+bye:  beannacht, slán 
+by night:  istóiche 
+by now:  cheana 
+Byzantium:  An Bhiosáint 
+Cairo:  Caireo 
+cake:  císte 
+calcium:  cailciam 
+Cameroon:  Camarún 
+Canada:  Ceanada 
+canal:  canáil 
+capital:  caipiteal, rachmas 
+capitalist:  caipitlí, rachmasaí 
+Capricorn:  an Gabhar 
+captain:  captaen 
+car:  carr, gluaisteán 
+carbon:  carbón 
+carburettor:  carbradóir 
+card:  cárta 
+carp:  carbán 
+carpenter:  siúnéir 
+carpet:  brat urláir, cairpéad 
+carrot:  cairéad, meacan dearg 
+carry:  iompair 
+castle:  caisleán 
+cat:  cat 
+cathedral:  ardeaglais 
+cello:  dordbhdhil 
+Celt:  Ceilteach 
+Celtic:  Ceilteach 
+cement:  suimint, stroighin 
+cemetery:  cill, reilig 
+cent:  ceint 
+centennial:  céad 
+centimetre:  ceintiméadar 
+centipede:  céadchosach 
+century:  céad 
+ceremony:  deasghnáth, searmanas 
+chair:  cathaoir 
+change:  athraigh
+channel:  canáil 
+charge:  ualach 
+cheap:  saor
+check:  seic 
+cheese:  cáis 
+cheque:  seic 
+cherry:  silín 
+chest:  araid, ciste, cófra 
+chicken:  cearc 
+child:  leanbh, gasúr, páiste
+Chile:  An tSile 
+chin:  smig 
+China:  An tSín 
+Chinese:  Sínis 
+Chinese language:  Sínis 
+chlorine:  clóirín 
+choice:  rogha 
+Christ:  Críost 
+chromium:  cróimiam 
+church:  eaglais, séipéal, teach pobail 
+church-building:  eaglais, séipéal, teach pobail 
+cigar:  todóg 
+cigarette:  toitín 
+cinder:  luaith 
+city:  cathair |  baile mór 
+class:  buíon 
+clay:  cré, créafóg 
+clean:  glan 
+clear:  geal 
+clergyman:  sagart 
+clerk:  scríbhneoir 
+client:  ceannaí |  cliant 
+climate:  aeráid, clíoma 
+climb:  dreap, tóg 
+clock:  clog 
+cloud:  néal, scamall, smál 
+coat:  casóg |  cóta mór 
+cobalt:  cóbalt 
+cocaine:  cócaon 
+cocoa:  cócó 
+coconut:  cnó cócó 
+cocoon:  cocún 
+cod:  trosc 
+code:  cód 
+codfish:  trosc 
+coffee:  caife 
+coffin:  cónra 
+cognac:  coinneac 
+colour:  dath, lí, snua 
+comb:  cior, raca 
+come:  tar 
+comfortable:  compordach 
+commence:  tionscain, tosaigh
+complete:  lán 
+connect:  ceangail, cónaisc 
+connect up:  ceangail, cónaisc 
+conversation:  comhrá 
+copper:  copar 
+cord:  téad 
+corner:  binn, cearn, coirnéal, clúid, cúil, cúinne 
+Corsica:  An Chorsaic 
+Costa Rica:  Cósta Ríce 
+costly:  daor 
+cougar:  púma 
+counsel:  comhairligh, mol |  comhairle, moladh 
+count in:  suimigh 
+cow:  bó 
+crazy:  dásachtach 
+Crete:  An Chréit 
+crocodile:  crogall 
+cross:  colgach, feargach 
+Cuba:  Cúba 
+cuckoo:  cuach 
+cup:  cupán 
+curry:  curaí 
+customer:  cliant 
+cycle:  rothar 
+cyclone:  cioclón 
+cylinder:  sorcóir 
+cymbal:  ciombal 
+cynical:  ciniciúil 
+cypres:  cugróg 
+Cyprus:  An Chipir 
+czar:  sár 
+dad:  daid, daidí 
+daddy:  daid, daidí 
+dance:  rince 
+danger:  baol, dainséar, contúirt, gábh, guais 
+Danish:  Danmhairgis 
+Danish language:  Danmhairgis 
+daughter:  iníon 
+day:  lá 
+dear:  daor
+death:  bás 
+December:  mí na Nollag 
+deem:  creid 
+deep:  doimhin 
+deer:  fia 
+den:  nead 
+Denmark:  An Danmhairg 
+Derry:  Doire 
+difficult:  deacair 
+diminutive:  beag, beagán 
+din:  gleo 
+diplomat:  taidhleoir 
+direct:  díreach 
+dirty:  salach 
+dismal:  brónach 
+do:  déanamh, déantús 
+doctor:  dochtúir 
+dog:  cú, gadhar 
+donkey:  asal 
+doubt:  amhras 
+downstairs:  laistíos, thíos 
+dress:  gúna 
+drunk:  ólta 
+dry:  tirim 
+Dublin:  Baile Átha Cliath 
+duck:  lacha 
+during:  ar feadh 
+during the night:  istóiche 
+Dutch:  Ollainnis 
+Dutch language:  Ollainnis 
+dwelling:  cónaí 
+dye:  dath, lí, snua 
+each:  gach 
+eagle:  iolair 
+ear:  cluas 
+early:  go moch 
+east:  soir 
+Easter:  Cáisc 
+eastward:  soir 
+eastwards:  soir 
+Ecuador:  Eacuadór 
+Edinburgh:  Dún Éideann 
+egg:  ubh 
+Egypt:  An Éigipt 
+eight:  ocht 
+election:  rogha 
+elephant:  eilifint 
+eleven:  aon déag 
+elk:  eilc, fia mór 
+else:  eile 
+emerge:  láithrigh, nocht, taibhsigh, taispeáin 
+emmet:  seangán 
+empty:  folamh 
+end:  deireadh 
+ending:  deireadh 
+end up:  ráinigh, tar 
+England:  Sasana
+English:  Béarla 
+English language:  Béarla 
+enough:  leor 
+equal:  cuma 
+erroneous:  cearr, contráilte 
+estate:  feirm 
+Ethiopia:  An Aetóip 
+Europa:  An Eoraip
+Europe:  An Eoraip 
+evade:  seachain, teith ó 
+even:  cuma 
+ever:  ar fad, choíche, go buan, go brách, i dtólamh, i gcónaí 
+every:  gach 
+everybody:  gach 
+every one:  gach 
+except:  ach 
+exist:  bheith ann 
+expect:  fair, fan le 
+expensive:  daor
+eye:  súil 
+face:  aghaidh 
+fair:  fionn, foltbhuí 
+family:  clann, cúram, fine, líon tí, muintir, muirear, teaghlach 
+farewell:  beannacht, slán 
+farm:  feirm 
+fast:  tapaidh 
+fat:  ramhar 
+father:  athair
+fatherland:  athartha 
+February:  Feabhra, mí na Feabhra 
+feed:  beathaigh, cothaigh 
+feel:  ceint 
+feeling:  ceint 
+fellow:  fear 
+fetch:  beir, tabhair 
+field:  páirc
+field hospital:  otharcharr 
+fifty:  caoga 
+fig:  fige 
+filthy:  salach 
+fine:  álainn, dathúil, dóighiúil, gnaíúil, maisiúil, sciamhach 
+finished:  ullamh 
+Finland:  An Fhionlainn 
+fish:  iasc 
+fisherman:  iascaire 
+five:  cúig 
+floor:  urlár 
+flour:  plúr 
+flower:  bláth 
+fly:  cuil, cuileog 
+food:  bia 
+foot:  cos
+football:  sacar 
+for:  ar feadh 
+foreigner:  stróinséir 
+forest:  coill, foraois 
+forget:  dearmad 
+forgetful:  dearmadach 
+forgive:  logh, maith 
+fork:  forc, gabhlóg, píce 
+four:  cheithre 
+fowl:  cearc 
+fox:  madra rua, sionnach 
+France:  An Fhrainc 
+freezing cold:  sioc 
+French:  Fraincis 
+French language:  Fraincis 
+fresh:  úr 
+Friday:  an Aoine 
+friend:  cara 
+frog:  frog, loscann 
+from:  de |  as 
+frost:  sioc 
+full:  lán 
+Gaelic:  Gaeilge 
+game:  cluiche 
+garden:  gairdín 
+gasolene:  beinsín 
+gasoline:  beinsín 
+gaunt:  brónach 
+gentle:  milis 
+germ:  bitheog, miocrób 
+German:  Gearmánach |  Gearmáinis 
+German language:  Gearmáinis 
+Germany:  An Ghearmáin 
+get:  ráinigh, tar 
+Ghana:  Gána 
+giraffe:  sioráf 
+girdle:  beilt 
+girl:  cailín 
+give notice:  fógair 
+gladness:  áthas 
+Glasgow:  Glaschú 
+glass:  gloine 
+God's acre:  cill, reilig 
+gold:  ór 
+good:  leas, maith, maitheas, tairbhe 
+goodbye:  beannacht, slán 
+goodness:  feabhas 
+goose:  gé 
+gooseberry:  spíonán 
+gown:  gúna 
+gram:  gram 
+grammar:  gramadach 
+gramme:  gram 
+grandfather:  athair críonna, athair mór, seanathair 
+grandmother:  máthair chríonna, máthair mhor, seanmháthair 
+grass:  féar 
+graveyard:  cill, reilig 
+grease:  ramhar 
+great:  mór 
+Great Britain:  An Bhreatain, An Bhreatain Mhór 
+Greece:  An Ghréig 
+green:  glas 
+Greenland:  An Ghraonlainn
+Guatemala:  Guatemala 
+gun:  gunna 
+hail:  cloch shneachta 
+hair:  ribe 
+hammer:  casúr 
+hand:  lámh 
+handsome:  álainn, dathúil, dóighiúil, gnaíúil, maisiúil, sciamhach 
+harbor:  caladh, calafort, cuan, port 
+harbour:  caladh, calafort, cuan, port 
+hard:  deacair 
+harvest:  fómhar 
+hat:  hata 
+hawk:  seabhac 
+hay:  féar 
+head:  ceann
+heaven:  aer, neamh, spéir 
+heavy:  trom 
+Hebrew:  Eabhrais 
+Hebrew language:  Eabhrais 
+hectometre:  heictiméadar 
+hedonism:  héadónachas 
+heel:  sáil
+he-goat:  pocán 
+height:  airde 
+hell:  ifreann 
+helmet:  cafarr, ceannbheart, clogad 
+help:  cúnamh
+helper:  cuiditheoir, cúntóir
+Helsinki:  Heilsincí 
+her:  sé 
+herb:  féar 
+hero:  curadh, gaiscíoch, laoch 
+heroin:  hearóin 
+heroine:  banlaoch 
+heron:  corr éisc 
+herpes:  deir 
+herring:  scadán 
+hexagon:  heicseagán 
+hiccup:  fail, snag 
+high:  ard 
+hill:  cnoc 
+hippo:  dobhareach 
+hippopotamus:  dobhareach 
+hog:  muc 
+hole:  poll 
+Holland:  An Ollainn |  An Ísiltír 
+holly:  cuileann 
+hooker:  fraochán 
+hooter:  adharc, beann 
+horn:  adharc, beann
+horse:  capall 
+hospital:  ospídéal 
+hot:  bruithneach, te 
+hotel:  óstlann 
+hour:  uair 
+housefly:  cuil, cuileog 
+house of worship:  eaglais, séipéal, teach pobail 
+Hungary:  An Ungáir 
+hunger:  ocras 
+hyaena:  hiéana 
+Iceland:  An Íoslainn 
+ill:  breoite 
+in:  i 
+inch:  orlach 
+inconvenient:  deacair 
+India:  An India 
+Indonesia:  An Indinéis 
+in exchange for:  faoi, i gcoinne, in aghaidh, in éadan 
+inexpensive:  saor
+infant:  leanbh, gasúr, páiste 
+infernal:  ifreanda 
+in front of:  roimh, os comhair, os coinne 
+insane:  dásachtach 
+inside:  i 
+instant:  móimint, nóiméad 
+instructor:  múinteoir 
+into:  i 
+intoxicated:  ólta 
+iodine:  iaidín 
+Iran:  An Iaráin 
+Iraq:  An Iaráic 
+Ireland:  Éire 
+iron:  iarann 
+Israel:  Iosrael
+Istanbul:  Iostanbúl 
+Italian:  Iodáilis 
+Italian language:  Iodáilis 
+Italy:  An Iodáil 
+jam:  marmaláid 
+Jamaica:  Iamáice 
+January:  Eanáir 
+Japan:  An tSeapáin 
+Japanese:  Seapáinis 
+Japanese language:  Seapáinis 
+Jerusalem:  Iarúsailéim 
+Jordan:  An Iordáin 
+journey:  aistear farraige 
+joy:  áthas 
+July:  Iúil 
+June:  an Meitheamh 
+Kenya:  An Chéinia 
+key:  eochair 
+keyboard:  méarchlár 
+kidney:  ára, duán 
+kill:  maraigh 
+kilo:  cileagram 
+kilometre:  ciliméadar 
+kind:  saghas 
+king:  rí 
+kingdom:  flaitheas, ríocht 
+kiss:  póg 
+kitchen:  cistin 
+klaxon:  adharc, beann 
+knife:  scian 
+Korea:  An Chóiré 
+Kuwait:  Cuáit 
+lad:  buachaill, garsún, gasúr 
+laddie:  buachaill, garsún, gasúr 
+lake:  loch 
+lamp:  lampa 
+language:  teanga 
+large:  mór 
+lass:  cailín 
+Latin:  Laidin 
+law:  dlí, reacht 
+laziness:  leisce 
+lead:  luaidhe 
+leather:  leathar 
+leg:  cos
+lesson:  ceacht 
+letter:  litir 
+level:  cuma 
+Libya:  An Libia 
+lie:  bréag 
+light:  geal |  éadrom 
+likewise:  fosta, freisin, leis 
+Limerick:  Luimneach 
+lime-tree:  crann teile 
+linden-tree:  crann teile 
+lip:  béal, bruas, cab, liopa 
+liquidate:  maraigh 
+Lisbon:  Liospóin 
+liter:  lítear 
+litre:  lítear 
+little:  beag, beagán 
+liver:  ae, crua-ae 
+Liverpool:  Learpholl 
+load:  ualach 
+loaf:  arán 
+location:  áit 
+loch:  loch 
+lofty:  ard 
+London:  Londain 
+Londonderry:  Doire 
+long:  cian, fada 
+lovely:  álainn, dathúil, dóighiúil, gnaíúil, maisiúil, sciamhach |  daor 
+low:  íseal 
+luggage:  bagáiste 
+Luxemburg:  Lucsamburg 
+mackerel:  maircréal 
+mad:  dásachtach 
+Madagascar:  Madagascar 
+Madrid:  Maidrid 
+magnesium:  maignéisiam 
+magnet:  adhmait, maighnéad 
+make:  déanamh, déantús 
+Malta:  Málta 
+mam:  mam, mamaí, mamanna 
+mammy:  mam, mamaí, mamanna 
+man:  fear 
+management:  reachtas, riar, riarachán 
+Manchester:  Manchain 
+map:  cárta 
+marmelade:  marmaláid 
+Mars:  Mars 
+mast:  crann 
+mature:  aibidh 
+meal:  plúr |  béile 
+meat:  feoil 
+menu:  cárta 
+mercury:  airgead beo, mearcair 
+metre:  méadar 
+metropolis:  cathair 
+Mexico:  Meicsiceo 
+microbe:  bitheog, miocrób 
+microphone:  micreafón 
+microscope:  micreascóp 
+mile:  míle 
+milk:  bainne 
+millet:  muiléad 
+millimetre:  milliméadar 
+million:  milliún 
+miserable:  dona, olc |  brónach 
+mistaken:  cearr, contráilte 
+mole:  caochán 
+molecule:  móilín 
+mom:  mam, mamaí, mamanna 
+moment:  móimint, nóiméad 
+mommy:  mam, mamaí, mamanna 
+Monaco:  Monacó 
+Monday:  an Luan 
+money:  airgead 
+Mongolia:  An Mhonghóil 
+monk:  manach 
+monkey:  ápa, moncaí 
+month:  mí 
+moon:  gealach 
+moose:  eilc, fia mór 
+Morocco:  Maracó 
+Moscow:  Moscó 
+mother:  máthair 
+mountain:  sliabh 
+mountain lion:  púma 
+mouse:  luch 
+mouth:  béal, cab
+Mozambique:  Mósaimbíc 
+music:  ceol, oirfide 
+mutton:  caoireoil 
+name:  ainm 
+narrative:  scéal 
+narrow:  caol 
+nasty:  dona, olc 
+near:  i n-aice 
+nearby:  i n-aice 
+nearly:  beagnach, nach mór 
+near to:  i n-aice 
+neighbour:  comharsa 
+neon:  neon 
+Nepal:  Neipeál 
+nephew:  nia, mac dearthair, mac deirféar 
+Neptune:  Neiptiún 
+nest:  nead 
+net:  líon 
+network:  líon 
+new:  nua, úr 
+New Amsterdam:  Nua-Eabhrac 
+Newfoundland:  Talamh an Éisc 
+New York:  Nua-Eabhrac 
+New York City:  Nua-Eabhrac 
+New Zealand:  An Nua-Shéalainn 
+next to:  i n-aice 
+Nicaragua:  Nicearagua 
+nice:  leas, maith, maitheas, tairbhe 
+nickel:  nicil 
+Niger:  An Nígir 
+Nigeria:  An Nigéir 
+night:  oíche 
+Nile:  An Níl 
+nine:  naoi 
+nitrogen:  nítrigin 
+no:  ní 
+noise:  gleo 
+north:  tuaisceart 
+northern:  tuaisceartach 
+Norway:  An Iorua 
+nose:  srón 
+not:  ní 
+note:  ticéad 
+nothing:  pioc 
+noun:  ainm, ainmfhocal 
+nourish:  beathaigh, cothaigh 
+novel:  nua, úr |  úrsceal 
+November:  mí na Samhna 
+now:  anois 
+nun:  bean rialta 
+nurse:  banaltra 
+nuts:  dásachtach 
+nylon:  níolón 
+oak:  dair 
+oar:  rámh 
+oasis:  ósais 
+oath:  eascainne, mionn 
+oats:  coirce 
+oboe:  óbó 
+ocean:  aigéan, bóchna, farraige mhór 
+o'clock:  uair 
+October:  Deireadh Fómhair 
+of:  de 
+oil:  ola 
+okay:  leas, maith, maitheas, tairbhe |  go maith 
+omnibus:  bus 
+on:  i |  ar 
+once more:  arís, athuair, fós 
+one:  duine éigin |  aon 
+onerous:  trom 
+one thousand:  míle 
+on the other side of:  thar 
+on top:  lastuas 
+opera:  ceoldráma 
+opinion:  tuairim 
+opposed to:  faoi, i gcoinne, in aghaidh, in éadan 
+opposite:  faoi, i gcoinne, in aghaidh, in éadan 
+optimist:  soirbhíoch 
+or:  nó 
+Oslo:  Osló 
+other:  eile 
+other than:  ach 
+out of:  as 
+over:  lastuas 
+overcoat:  casóg |  cóta mór 
+overhead:  lastuas 
+oxygen:  ocsaigin 
+Pacific:  Aigéan Ciúin 
+Pacific Ocean:  Aigéan Ciúin 
+pail:  buicéad 
+pain:  pian 
+Pakistan:  An Phacastáin 
+Palestine:  An Phalaistín 
+pants:  bríste, treabhsar, truís 
+paper:  páipéar 
+Paraguay:  Paragua 
+pardon:  logh, maith 
+Paris:  Páras 
+parish:  paróiste 
+pastor:  sagart 
+pate:  ceann 
+paw:  cos 
+pawn:  saighdiúir 
+peat:  móin 
+penny:  pingin 
+per:  i 
+perform:  láithrigh, nocht, taibhsigh, taispeáin |  déanamh, déantús 
+peril:  baol, dainséar, contúirt, gábh, guais 
+permission:  cead 
+Persia:  An Iaráin 
+person:  duine 
+Peru:  Peiriú 
+petrol:  beinsín 
+Philippine Islands:  Na hOileáin Fhilipíneacha 
+Philippines:  Na hOileáin Fhilipíneacha 
+phosphorus:  fosfar 
+physician:  dochtúir 
+pig:  muc 
+pine:  giúis 
+pine-tree:  giúis 
+place:  áit
+place of worship:  eaglais, séipéal, teach pobail 
+plane:  eitleán 
+platinum:  platanam 
+plug in:  ceangail, cónaisc 
+Pluto:  Plútón 
+plutonium:  plútóiniam 
+poem:  dán, duan, laoi 
+Poland:  An Pholainn 
+poor:  dona, olc 
+pope:  pápa 
+pork:  muiceoil 
+port:  caladh, calafort, cuan, port 
+Portuguese:  Portaingéilis 
+Portuguese language:  Portaingéilis 
+potassium:  potaisiam 
+potato:  práta 
+pound:  punt 
+Prague:  Prág 
+prejudice:  claontacht, réamhchlaonadh 
+prepare:  cóirigh, déan réidh, gléas, ullmhaigh 
+pretty:  deas 
+price:  praghas 
+pricey:  daor 
+priest:  sagart
+probably:  is dócha 
+profound:  doimhin 
+property:  feirm 
+psalm:  salm 
+pseudonym:  ainm cleite 
+psychiatrist:  síciatraí 
+psychiatry:  síciatracht 
+psychologist:  síceolaí 
+psychology:  aigneolaíocht, síceolaíocht 
+puma:  púma 
+purchase:  ceannaigh
+purchaser:  ceannaí 
+pure:  glan 
+pyjamas:  pitseámaí 
+pyramid:  pirimid 
+Quaker:  ball de Chumann na gCarad, Caecar 
+queen:  banríon 
+question:  ceist 
+quick:  tapaidh 
+quicksilver:  airgead beo, mearcair 
+quite:  ana- 
+rabbi:  raibí 
+rabbit:  coinín 
+rabies:  confadh 
+raccoon:  racún 
+race:  cine 
+racoon:  racún 
+radar:  radar 
+radiator:  radaitheoir 
+radio:  raidió 
+radish:  raidis 
+radium:  raidiam 
+radius:  cnámh radúil 
+rain:  báisteach 
+rainbow:  bogha báistí, tuar ceatha 
+ranch:  feirm 
+rapid:  tapaidh 
+raspberry:  sú craobh 
+rat:  francach, luch mhor 
+rather:  beagán 
+ready:  ullamh 
+reality:  fírinne 
+receive:  faomh, glac 
+recent:  úr 
+red:  dearg
+rent:  cíos 
+rent money:  cíos 
+reply:  freagair |  freagra 
+request:  achainigh, impigh 
+residence:  cónaí 
+respond:  freagair 
+revolver:  gunnán 
+Rhine:  Réin 
+rhino:  srónbheannach 
+rhinoceros:  srónbheannach 
+rich:  saibhir 
+rifle:  gunna 
+ripe:  aibidh 
+river:  abhainn, sruth 
+road:  bóthar 
+robber:  robálaí 
+robe:  gúna 
+robot:  robat 
+rock:  carracán, carraig, creig 
+rocket:  roicéad 
+roe:  eochraí, pis 
+roller:  sorcóir 
+Roman:  Rómhánach
+Romania:  An Rómáin 
+Rome:  An Róimh 
+root:  préamh 
+rope:  téad 
+route:  bóthar 
+Russia:  An Rúis 
+Russian:  Rúisis 
+Russian language:  Rúisis 
+sack:  bolg, mála 
+sad:  brónach 
+saddle:  diallait 
+sagacious:  ciallmhar 
+sage:  ciallmhar 
+sail:  seol 
+sailor:  loingseoir, mairnéalach, maraí 
+salmon:  bradán 
+Sardinia:  An tSairdín 
+Saturday:  an Satharn 
+Saudi Arabia:  An Araib Shádach 
+Scandinavia:  Críoch Lochlann 
+school:  scoil 
+Scotland:  Albain 
+sea:  farraige 
+sea-dog:  rón 
+seal:  rón 
+seed:  síol 
+seldom:  go hannamh 
+sensation:  ceint 
+September:  Meán Fhómhair 
+serpent:  nathair 
+seven:  seacht 
+shame:  náire 
+sharp:  géar
+she:  sé 
+sheep:  caora 
+shilling:  scilling 
+shoe:  bróg 
+shop:  siopa 
+shortness of breath:  múchadh, plúchadh 
+Siberia:  An tSibéir 
+Sicily:  An tSicil 
+sick:  breoite 
+side:  taobh 
+silver:  airgead 
+since:  de 
+Singapore:  Singeapór 
+sister:  deirfiúr 
+sit:  suigh 
+six:  sé 
+sixteen:  sé déag 
+sixty:  seasca 
+skin:  craiceann, cneas, leathar, seithe 
+sky:  aer, neamh, spéir 
+slave:  daor, sclábhaí, tráill 
+slay:  maraigh 
+sleep:  codlach, suan 
+slow:  mall 
+slug:  drúchtín, seilide 
+small:  beag, beagán 
+smith:  gabha 
+smoke:  deatach 
+smuggle:  smuigleáil 
+smuggler:  smuigléir 
+snail:  seilide 
+snake:  nathair 
+snow:  sneachta 
+snowflake:  bratóg shneachta, calóg shneachta, lubhóg shneachta 
+soap:  gallúnach 
+soccer:  sacar 
+socialism:  sóisialachas 
+socialist:  sóisialaí 
+sociology:  socheolaíocht 
+sock:  stoca gearr 
+sodium:  sóidiam 
+sofa:  tolg 
+Sofia:  Sóifia
+soft:  milis 
+soiled:  salach 
+soldier:  saighdiúir 
+some:  beagán |  duine éigin 
+somebody:  duine éigin 
+somehow:  ar chaoi éigin, ar chuma éigin, ar dhoigh éigin 
+someone:  duine éigin 
+some one:  duine éigin 
+somewhat:  beagán 
+son:  mac 
+song:  amhrán 
+sort:  saghas 
+sour:  aigéadach, searbh 
+South Africa:  An Afraic Theas 
+sow:  cráin 
+Spain:  An Spáinn 
+Spanish:  Spáinnis 
+Spanish language:  Spáinnis 
+sparrow:  gealbhan 
+speedy:  tapaidh 
+spiderweb:  damháin alla, líon, téad 
+spot:  áit 
+spring:  Earrach 
+springtime:  Earrach 
+squirrel:  iora 
+staircase:  staighre 
+stairs:  staighre 
+star:  réalta 
+start:  tionscain, tosaigh
+station:  stáisiún 
+Stockholm:  Stócólm 
+stone:  cloch 
+stool:  stól 
+store:  siopa 
+storm:  stoirm 
+story:  scéal 
+straight:  díreach 
+stranger:  stróinséir 
+street:  sráid 
+string:  téad 
+strong:  láidir 
+substantive:  ainm, ainmfhocal 
+suck:  diúl, , súigh, súraic, tarraing 
+Sudan:  An tSúdáin 
+sufficient:  leor 
+sugar:  siúcra 
+sulphur:  ruibh, sulfar 
+sultan:  sabhdán 
+summer:  Samhradh 
+sun:  grian 
+Sunday:  an Domhnach 
+superstition:  piseog 
+swan:  eala 
+Sweden:  An tSualainn 
+Swedish:  Sualainnis 
+Swedish language:  Sualainnis 
+sweet:  milis 
+swift:  tapaidh 
+swine:  muc 
+Switzerland:  An Eilbhéis 
+Syria:  An tSiria 
+table:  bord 
+take:  faomh, glac 
+take in:  faomh, glac 
+take over:  ceannaigh 
+tale:  scéal 
+tall:  ard 
+Tanzania:  An Tansáin 
+tart:  aigéadach, searbh 
+Tasmania:  An Tasmáin 
+taste:  blas, tástáil 
+teacher:  múinteoir 
+ten:  deich 
+tender:  milis 
+test:  iarracht, iarraidh, ionsaí 
+that:  go, gur |  cé a, cé acu 
+the:  an, na 
+the day after tomorrow:  amanathar 
+The Hague:  An Háig 
+the Netherlands:  An Ísiltír 
+they:  siad
+thirst:  tart 
+though:  bíodh go, bíodh is go, cé go 
+thousand:  míle 
+three:  trí 
+through:  ullamh |  thar, trasna 
+thumb:  ordóg 
+Thursday:  an Déardaoin 
+Tibet:  An Tibéid 
+ticket:  ticéad 
+timber:  adhmad 
+time:  uair |  am 
+tin:  stán 
+tired:  tuirseach 
+to:  chun, do, go 
+toad:  buaf 
+tobacco:  tobac 
+today:  inniu 
+toe:  ladhar, méar coise 
+together:  i dteannta a chéile, i gceann a chéile, in éineacht, le chéile 
+tomorrow:  amáireach 
+tongue:  teanga
+too:  fosta, freisin, leis 
+tooth:  fiacail 
+tortoise:  turtar 
+to some extent:  beagán 
+toward:  chun, do, go 
+towards:  chun, do, go 
+town:  baile mór 
+train:  traein
+tree:  crann 
+triangle:  triantán 
+triangular:  triantánach 
+tribunal:  binse breithimh 
+trigonometry:  triantánacht 
+trilogy:  triológ 
+Trinity:  Tríonóid 
+trip:  aistear farraige 
+triumph:  buaigh |  bua, caithréim 
+trombone:  trombón 
+tropical:  teochreasach, trópaiceach 
+trousers:  bríste, treabhsar, truís 
+trout:  breac 
+trumpet:  stoc, troimpéad, trumpa 
+truth:  fírinne
+tuberculosis:  eitinn 
+Tuesday:  an Mháirt 
+tulip:  tiúilip 
+tummy:  bolg, tarr 
+tumor:  meall, siad 
+tumour:  meall, siad 
+Tunisia:  An Túinéis 
+tunnel:  tollán 
+turkey:  turcaí 
+two:  dá 
+Uganda:  Uganda 
+uncle:  uncail 
+unclean:  salach 
+under:  faoi, faoi bhun, taobh thíos de 
+underneath:  laistíos, thíos |  faoi, faoi bhun, taobh thíos de
+United States of America:  Stáit Aontaithe Mheiriceá 
+upon:  faoi, i gcoinne, in aghaidh, in éadan |  ar 
+upstairs:  lastuas 
+uranium:  úráiniam 
+Uruguay:  Uragua 
+USA:  Stáit Aontaithe Mheiriceá 
+valuable:  daor 
+Vatican City:  Cathair na Bhatacáine 
+Venezuela:  Bheiniséala 
+very:  ana- 
+very much:  ana- 
+Vienna:  Bhín 
+Vietnam:  Bhítneam 
+village:  baile beag, gráig, sráidbhaile 
+void:  folamh 
+Volt:  bholta 
+vowel:  guta 
+voyage:  aistear farraige 
+wait:  fair, fan le 
+wait for:  fair, fan le 
+wake:  dúisigh, múscail
+wake up:  dúisigh, múscail
+Wales:  An Bhreatain Bheag 
+wall:  falla 
+walnut:  gallchnó 
+waltz:  bhálsa 
+war:  cogadh 
+warm:  te 
+Warsaw:  Bhársá 
+washing-bear:  racún 
+wasp:  foiche 
+watch:  uaireadóir láimhe |  clog 
+water:  uisce 
+waterfall:  eas
+watt:  bhata 
+wax:  céir 
+way:  bóthar 
+wealthy:  saibhir 
+wear:  iompair 
+weather:  aimsir 
+Wednesday:  an Chéadaoin 
+week:  seachtain 
+well:  go maith 
+well-off:  saibhir 
+Welsh:  Breatnais 
+Welsh language:  Breatnais 
+wench:  cailín 
+west:  iarthar 
+wet:  fliuch 
+what for:  cad chuige, cad ina thaobh, cén fáth 
+wheeziness:  múchadh, plúchadh 
+wheezy:  gearranálach, múchtach 
+when:  cathain, nuair
+where:  cá, cá hÁit, cén Áit 
+whereas:  ar feadh 
+which:  cé a, cé acu
+while:  ar feadh |  am 
+whilst:  ar feadh 
+whiskey:  fuisce, uisce beatha 
+whisky:  fuisce, uisce beatha 
+white:  bán, fionn, geal
+who:  cé a, cé acu 
+whore:  fraochán 
+why:  cad chuige, cad ina thaobh, cén fáth
+widow:  baintreach 
+wife:  bean 
+wind:  gaoth 
+window:  fuinneag 
+wine:  fíon 
+wireless:  raidió 
+wise:  ciallmhar 
+within:  i 
+without:  gan 
+wolf:  faolchu, mac tíre 
+woman:  bean 
+wood:  adhmad 
+woods:  coill, foraois 
+word:  focal 
+world:  domhan 
+worship:  adhair 
+wrench:  eochair 
+wrist-watch:  uaireadóir láimhe 
+writer:  údar 
+wrong:  cearr, contráilte 
+xylophone:  csileafón 
+yacht:  luamh 
+yard:  slat
+year:  bliain 
+yellow:  buí 
+Yemen:  Éimin 
+yesterday:  inné 
+yet:  cheana 
+yew-tree:  iúr 
+yoghourt:  iógart 
+yoghurt:  iógart 
+York:  Eabhrac 
+young:  óg 
+youngster:  ógánach, ógfhear 
+young woman:  ógbhean 
+youth:  ógánach, ógfhear 
+Zaïre:  An tSáír 
+Zambia:  An tSaimbia 
+zebra:  séabra 
+zenith:  buaic 
+Zimbabwe:  An tSiombáib 
+zinc:  sinc 
+zodiac:  stoidiaca 
+zone:  crios 
+zoo:  sú 
+zoology:  míoleolaíocht, só-eolaíocht 
