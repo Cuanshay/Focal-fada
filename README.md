@@ -1,6 +1,8 @@
 # Focal-fada
 
 Irish-english dictionary with added fada (accent) correction.
+
+Input queries with on-screen keyboard.
 Coded in Lua with Corona SDK.
 
 
